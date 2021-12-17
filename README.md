@@ -1,5 +1,5 @@
 # FlickOrFlop
-##Sentiment analysis on the IMDB movie review dataset on kaggle
+Sentiment analysis on the IMDB movie review dataset on kaggle
 
 Dataset:
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
